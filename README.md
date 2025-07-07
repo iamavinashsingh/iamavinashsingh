@@ -1,6 +1,6 @@
 <!-- 🌌 3D Banner -->
 <p align="center">
-  <img src="https://github.com/Avinash-Bharti/Avinash-Bharti/assets/banner3d.gif" width="100%" />
+  <img src="https://github.com/iamavinashsingh/iamavinashsingh/assets/banner3d.gif" width="100%" />
 </p>
 
 <h1 align="center">
@@ -8,42 +8,37 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&width=600&lines=MERN+Stack+%2B+AI+%7C+LangChain+%2B+Gemini;Node.js+%2F+PostgreSQL+%2F+WebSocket+%2F+Three.js;CI%2FCD+%2F+Docker+%2F+DevOps+Curious+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&width=600&lines=MERN+Stack+%2B+AI+%7C+LangChain+%2B+Gemini;Node.js+%2F+PostgreSQL+%2F+WebSocket;CI%2FCD+%2F+Docker+%2F+DevOps+Curious+Coder" alt="Typing SVG" />
 </p>
 
 ---
 
+I'm a Full Stack Developer from India, passionate about building real-world, scalable web applications using the MERN stack and modern web technologies.
+
+- 🔭 Currently working on: AI-powered cross-platform Tarot reading app (Flutter + React + Node.js)
+- 🌱 Learning: DevOps, System Design, and Advanced TypeScript
+- 🚀 Tech I'm good at: React.js, Next.js, Node.js, Express, MongoDB, PostgreSQL, WebSocket, Stripe
+
+---
 ### 📊 GitHub Stats & Trophies  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinash-Bharti&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-Bharti&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=false" height="180" />
-</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Avinash-Bharti&theme=dracula&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamavinashsingh&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamavinashsingh&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=false" height="180" />
 </div>
-
----
-
-### 🎮 Contribution Game (Snake Eating My Contributions)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Avinash-Bharti/Avinash-Bharti/output/snake.svg" alt="Snake animation" />
+  <img src="https://streak-stats.demolab.com?user=iamavinashsingh&theme=dracula" alt="GitHub Streak" />
 </p>
-
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamavinashsingh&theme=dracula&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</div>
+-
 
 ### 🚀 Tech Stack & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,mongodb,docker,git,github,figma,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,mongodb,docker,git,github,figma,tailwind,redux,langChain,gemini,framer_Motion" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini%20API-1A73E8?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-FFA500?style=for-the-badge&logo=websocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0099FF?style=for-the-badge&logo=framer&logoColor=white" />
-</div>
 
 ---
 
@@ -58,9 +53,9 @@
 
 ### ⚡ Fun Fact  
 <p align="center">
-  I code like an artist 🧑‍🎨 and dream in React, API calls, and Three.js 😴  
+  I code best *at midnight*, fueled by chai ☕ and impossible ideas. Innovation happens between 2–4 AM 🌙✨  
 </p>
 
 <p align="center">
-  <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" />
+  <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" alt="Magic Code"/>
 </p>
