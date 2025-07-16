@@ -13,9 +13,9 @@
 
 I'm a Full Stack Developer from India, passionate about building real-world, scalable web applications using the MERN stack and modern web technologies.
 
-- 🔭 Currently working on: AI-powered cross-platform Tarot reading app (Flutter + React + Node.js)
-- 🌱 Learning: DevOps, System Design, and Advanced TypeScript
-- 🚀 Tech I'm good at: React.js, Next.js, Node.js, Express, MongoDB, PostgreSQL, WebSocket, Stripe
+- 🔭 Currently working on: AI-powered cross-platform Tarot reading app (React + Node.js)
+- 🌱 Learning: DevOps, System Design, WebRTC & Payment Gateways
+- 🚀 Tech I'm good at: React.js, Next.js, Node.js, Express, MongoDB, PostgreSQL
 - 
 ---
 ### 📊 GitHub Stats & Trophies  
