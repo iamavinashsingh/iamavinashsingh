@@ -44,7 +44,7 @@ I'm a Full Stack Developer from India, passionate about building real-world, sca
 <p align="center">
   <a href="mailto:imavinashsingh2@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
   <a href="https://www.linkedin.com/in/imavinashsingh"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
-  <a href="https://x.com/AvinasTweets"><img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
+  <a href="https://x.com/AvinasTweets"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" height="35"/></a>
 </p>
 
 ---
