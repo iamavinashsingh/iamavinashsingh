@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&width=1000&lines=MERN+Stack+%2B+AI+%7C+LangChain+%2B+Gemini;Node.js+%2F+PostgreSQL+%2F+WebSocket;CI%2FCD+%2F+Docker+%2F+DevOps+Curious+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&width=500&lines=MERN+Stack+%2B+AI+%7C+LangChain+%2B+Gemini;Node.js+%2F+PostgreSQL+%2F+WebSocket;CI%2FCD+%2F+Docker+%2F+DevOps+Curious+Coder" alt="Typing SVG" />
 </p>
 
 
@@ -34,7 +34,7 @@ I'm a Full Stack Developer from India, passionate about building real-world, sca
 
 ### 🚀 Tech Stack & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,mongodb,docker,git,github,figma,tailwind,redux,langChain,gemini,framer_Motion" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,mongodb,docker,git,github,figma,tailwind,redux,postman" />
 </div>
 
 
@@ -42,9 +42,9 @@ I'm a Full Stack Developer from India, passionate about building real-world, sca
 
 ### 📫 Let's Connect  
 <p align="center">
-  <a href="mailto:imavinashsingh2@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
-  <a href="https://www.linkedin.com/in/imavinashsingh"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
-  <a href="https://x.com/AvinasTweets"><img src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" height="40" width="40"/></a>
+  <a href="mailto:imavinashsingh2@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://www.linkedin.com/in/imavinashsingh"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://x.com/AvinasTweets"><img src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" height="50" width="50"/></a>
 </p>
 
 ---
