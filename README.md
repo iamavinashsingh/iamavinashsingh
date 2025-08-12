@@ -15,8 +15,8 @@ I'm a Full Stack Developer from India, passionate about building real-world, sca
 
 - 🔭 Currently working on: AI-powered cross-platform Tarot reading app (React + Node.js)
 - 🌱 Learning: DevOps, System Design, WebRTC & Payment Gateways
-- 🚀 Tech I'm good at: React.js, Next.js, Node.js, Express, MongoDB, PostgreSQL
-- 
+- 🚀 Tech I'm good at: React Native, React.js, Next.js, Node.js, Express, MongoDB, PostgreSQL
+  
 ---
 ### 📊 GitHub Stats & Trophies  
 
