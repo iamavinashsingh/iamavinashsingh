@@ -28,7 +28,7 @@ I'm a Full Stack Developer from India, passionate about building real-world, sca
   <img src="https://streak-stats.demolab.com?user=iamavinashsingh&theme=dracula" alt="GitHub Streak" />
 </p>
 <p align="center">
-  ![Profile Visitors](https://api.komarev.com/ghpvc/?username=iamavinashsingh&color=green&style=flat-square&label=Profile+Visitors)
+ 
 </p>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iamavinashsingh&theme=dracula&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
