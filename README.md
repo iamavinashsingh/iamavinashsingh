@@ -24,7 +24,9 @@ I'm a Full Stack Developer from India, passionate about building real-world, sca
   <img src="https://github-readme-stats.vercel.app/api?username=iamavinashsingh&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamavinashsingh&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=false" height="180" />
 </div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iamavinashsingh&theme=dracula" alt="GitHub Streak" />
+</p>
 <p align="center">
  
 </p>
