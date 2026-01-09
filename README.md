@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&width=500&lines=MERN+Stack+%2B+AI+%7C+LangChain+%2B+Gemini;Node.js+%2F+PostgreSQL+%2F+WebSocket;CI%2FCD+%2F+Docker+%2F+DevOps+Curious+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&width=500&lines=MERN+Stack+%2B+AI+%7C+LangChain+%2B+Gemini;Node.js+%2F+PostgreSQL+%2F+WebSocket;Curious+Coder" alt="Typing SVG" />
 </p>
 
 ![ProfileBiew](https://komarev.com/ghpvc/?username=iamavinashsingh&style=flat-square)
