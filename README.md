@@ -18,18 +18,7 @@ I'm a Full Stack Developer from India, passionate about building real-world, sca
 - 🚀 Tech I'm good at: React Native, React.js, Next.js, Node.js, Express, MongoDB, PostgreSQL
   
 ---
-### 📊 GitHub Stats & Trophies  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamavinashsingh&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamavinashsingh&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=false" height="180" />
-</div>
-<p align="center"> 
-</p>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamavinashsingh&theme=dracula&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
--
 
 ### 🚀 Tech Stack & Tools
 <div align="center">
